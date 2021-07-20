@@ -7,3 +7,4 @@ Extent Report will show all the Validation that Performed.
 Two Error i found in this Api first when we hit "1111" as Customer id the First_name&Last_name is Not Matching with the Customerid detail Obtained in Customersview Data.
 When Enter"4444" as Customer id details are Correct but the id that Obtained is not "4444" it is "3333" when matching with the Customerview Data.
 But still i will Pass the Test Case by Removing these above 2 Point by removing that Particular Assertion as i don;t know that it is valid or not valid.
+Also Run the xml from Sure Fire Plugin from Command line by double clicking the Run.bat File.
